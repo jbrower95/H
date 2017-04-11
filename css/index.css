@@ -1,0 +1,25 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Times New Roman"
+}
+
+h1 {
+	font-size: 50px;
+	padding: 20px;
+}
+
+#fullpage {
+	padding: 50px;
+	text-align: center;
+}
+
+#contents {
+	font-size: 25px;
+}
+
+#helpbar {
+	position: absolute;
+	bottom: 0px;
+	padding: 5px;
+}
